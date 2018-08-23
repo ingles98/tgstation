@@ -1,0 +1,11 @@
+{
+    "map_name": "Prison Station",
+    "map_path": "map_files/Prison",
+    "map_file": "Prison.dmm",
+    "shuttles": {
+	    "cargo": "cargo_box",
+	    "ferry": "ferry_fancy",
+	    "whiteship": "whiteship_box",
+	    "emergency": "emergency_box"
+    }
+}
